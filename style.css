@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #916aeb;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.parrafo1{
+color:white;
+text-align: center;
+}   
+.header{
+color:white;
+font-size: 50px;
+text-align: center;
+} 
+.body1{
+    right: 800%;
+} 
+.nav1{
+text-align:center;
+color: #d6e3ff;
+
+}
+.lista1{
+    display: inline-block;
+    padding: 10px 135px;
+   text-align:left;
+   color: aliceblue;
+   text-decoration: none;
+} 
+.logo1{
+    background-color: #d6e3ff;
+    width: 55px;
+    height: 55px;
+} 
+.logo2{
+    width: 1250px;
+    height: 405px;
+} 
+.logo3{
+    width: 1250px;
+    height: 405px;
+    justify-content: space-between;
+} 
+.footer {
+    color: #d6e3ff;
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+position:absolute
+}
+.divFooter {
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    left: 550px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.redes-sociales {
+    width: 20px;
+    height: 20px;
+    padding: 10px 10px 0px 10px;
+}
+Remeras pantalones y zapatillas
+.imgServicios{
+    width: 20px;
+    height: 20px;
+    padding-top: 50px;
+    position: center;
+    width: 400px;
+    height: 700px;
+}
+.mainH2 {
+    margin-top:40px;
+    color:#090e3d;
+font-size: 30px;
+text-align: center;
+}
+.serviciosDiv {
+    width: 700px;
+    height: 700px;
+    margin: 50px;
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+}
+.serviciosDivConteiner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px;
+}
+.mainContactanos {
+    height: 800px;
+}
+.contactanosDivConteiner {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.formDivConteiner {
+    display: flex;
+    justify-content: center;
+}
+.main_form {
+height: 30px;
+padding: 5px;
+}
+.main_divFieldset {
+    color: #000000;
+    font-size: 14px;
+}
+.main_inputContactanos {
+    border-color: #000000;
+    border: groove;
+}
+.fieldset {
+    width: 50px;
+    color:#090e3d;
+    border: groove;
+    bottom: 2rem;
+    padding: 1rem;
+}
+.fieldset1 {
+    width: 50px;
+    color:#090e3d;
+    border: groove;
+    bottom: 2rem;
+    padding: 1rem;
+    position: relative;
+    left: 60px;
+}
+.input_enviarContactanos {
+    text-align: center;
+    background-color: #2f4f4f;
+    font-size: 16px;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+.contactanosP {
+    position: relative;
+    left: 420px;
+    width: 500px;
+    margin: 40px 0px 40px 0px;
+    padding: 40px 0px 40px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+.formulariocontact {
+ text-align: center;
+padding: 10px;
+}
+.pantalones{
+width: 450px;
+margin-top: 15px;
+}
+.remeras{
+    width: 450px;
+margin-top: 15px;
+}
